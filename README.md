@@ -1,3 +1,5 @@
+### This script was modded from the original [video](https://www.youtube.com/watch?v=1eqPmDvMjLY) and [repo](https://github.com/automation-avenue/youtube-39-arr-apps-1-click) from Automation Avenue.
+
 ### Useful Links:
 - [Servarr Wiki](https://wiki.servarr.com/)
 - [Trash Guides](https://trash-guides.info/)
